@@ -7,7 +7,7 @@ import SearchItem from './SearchItem';
 
 function App() {
 
-  const [items, setitems] = useState(JSON.parse(localStorage.getItem('shoppinglist')) || []);
+  const [items, setitems] = useState(JSON.parse(localStorage.getItem('shoppinglist')) || ['Tomato']);
   const [newitem, setnewitem] = useState('')
   const [search, setsearch] = useState('')
 
