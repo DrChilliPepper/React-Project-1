@@ -7,7 +7,7 @@ import SearchItem from './SearchItem';
 import apiRequest from './apiRequest';
 
 function App() {
-  const API_URL = 'http://localhost:3500/items';
+  const API_URL = 'https://api.myjson.online/v1/records/d9f5a435-ac34-4bb4-8199-e8685a73d3e4';
 
   const [items, setitems] = useState([]);
   const [newitem, setnewitem] = useState('')
