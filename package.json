@@ -1,7 +1,6 @@
 {
   "name": "projectreact",
   "version": "0.1.0",
-  "homepage": "https://DrChilliPepper.github.io/My-Codes",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
