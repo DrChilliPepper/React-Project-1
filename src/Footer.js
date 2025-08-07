@@ -7,6 +7,9 @@ const Footer = ({length}) => {
       <p>
         {length} list {length === 1 ? "item" : "items"}
       </p>
+      <p className="cpr">
+        &cpy;
+      </p>
     </footer>
   )
 }
