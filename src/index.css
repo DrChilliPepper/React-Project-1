@@ -233,17 +233,60 @@ button:hover {
   background-position: 33%;
 }
 .brinjal{
-  background-image: url(./images/Tomato.png);
+  background-image: url(./images/Brinjal.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+.banana{
+  background-image: url(./images/banana.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+.apple{
+  background-image: url(./images/apple.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+.mango{
+  background-image: url(./images/mango.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+.grapes{
+  background-image: url(./images/grapes.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+.milk{
+  background-image: url(./images/milk.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 33%;
 }
 .drumstick{
-  background-image: url(./images/Tomato.png);
+  background-image: url(./images/Drumstick.png);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 33%;
 }
+.cookies{
+  background-image: url(./images/cookies.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+.chocolate{
+  background-image: url(./images/chocolate.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 33%;
+}
+
 
 p{
   width: 100%;
