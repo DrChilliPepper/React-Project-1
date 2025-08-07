@@ -8,7 +8,7 @@ const Footer = ({length}) => {
         {length} list {length === 1 ? "item" : "items"}
       </p>
       <p className="cpr">
-        &cpy;
+        &copy; Made by Shuchith
       </p>
     </footer>
   )

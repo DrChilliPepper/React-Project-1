@@ -245,3 +245,6 @@ button:hover {
   background-position: 33%;
 }
 
+.cpr{
+  border-top: 1px solid black;
+}
