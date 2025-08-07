@@ -247,4 +247,9 @@ button:hover {
 
 .cpr{
   border-top: 1px solid black;
+  width: 100%;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  text-align: center;
 }
